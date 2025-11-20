@@ -66,12 +66,3 @@ Aktivasyon fonksiyonları
 
 Her deneyin sonuç grafikleri notebook içinde sunulmuştur.
 
-📎 Gelecek Çalışmalar (Opsiyonel)
-
-CNN modeli ekleme (Conv2D)
-
-Eğitim performansını artıracak veri artırma (data augmentation)
-
-Modeli TensorFlow Lite formatına dönüştürme
-
-GUI ile rakam tahmin uygulaması geliştirme
